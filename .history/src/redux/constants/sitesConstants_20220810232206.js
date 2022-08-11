@@ -1,0 +1,1 @@
+export const SITES_LIST_REQUEST = 'SITES_LIST_REQUEST'
